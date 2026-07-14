@@ -141,6 +141,26 @@ The SARIMAX model assumes that:
 	Seasonal patterns remain relatively stable over time. 
   
 ________________________________________
+
+Objective
+
+The objective of this study is to model and forecast the monthly exchange rate (PKR/USD) using the Seasonal Autoregressive Integrated Moving Average (SARIMA) model. The study also evaluates the model's adequacy through diagnostic tests and forecasting accuracy measures.
+
+Data Description
+
+Variable: Exchange Rate (PKR/USD)
+
+Frequency: Monthly 
+
+Period: January 2000 – June 2026 
+
+Number of Observations: 318 
+
+
+Methodology
+
+The analysis follows the  SARIMA modeling.
+
 Steps in Time Series Modeling Using SARIMAX
 
 Step 1: Data Collection
